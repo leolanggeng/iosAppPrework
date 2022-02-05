@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/Qsl7TGy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://imgur.com/Qsl7TGy
+
 GIF created with EzGif https://ezgif.com/
 
 Image hosting with Imgur https://imgur.com/
