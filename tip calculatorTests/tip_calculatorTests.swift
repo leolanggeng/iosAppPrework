@@ -1,14 +1,14 @@
 //
-//  iosPreworkTests.swift
-//  iosPreworkTests
+//  tip_calculatorTests.swift
+//  tip calculatorTests
 //
-//  Created by Leonardo Langgeng on 1/17/22.
+//  Created by Leonardo Langgeng on 2/4/22.
 //
 
 import XCTest
-@testable import iosPrework
+@testable import tip_calculator
 
-class iosPreworkTests: XCTestCase {
+class tip_calculatorTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  iosPrework
+//  tip calculator
 //
-//  Created by Leonardo Langgeng on 1/17/22.
+//  Created by Leonardo Langgeng on 2/4/22.
 //
 
 import UIKit

@@ -1,13 +1,13 @@
 //
-//  iosPreworkUITestsLaunchTests.swift
-//  iosPreworkUITests
+//  tip_calculatorUITestsLaunchTests.swift
+//  tip calculatorUITests
 //
-//  Created by Leonardo Langgeng on 1/17/22.
+//  Created by Leonardo Langgeng on 2/4/22.
 //
 
 import XCTest
 
-class iosPreworkUITestsLaunchTests: XCTestCase {
+class tip_calculatorUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
